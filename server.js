@@ -52,6 +52,7 @@ app.post('/api/notes',(req,res)=>{
            fs.writeFile('./db/db.json', JSON.stringify(parsedNotes),(err,data)=>{
                if(err)console.error(err);
                console.log('worked');
+               res.redirect('/notes');
            })
        
     })
@@ -59,6 +60,7 @@ app.post('/api/notes',(req,res)=>{
 
 //delete notes
 app.delete('/api/notes/:id',(req,res)=>{
+    
     fs.readFile('./db/db.json', 'utf-8', (err,data)=>{
         if(err) console.error(err);
 
@@ -71,6 +73,7 @@ app.delete('/api/notes/:id',(req,res)=>{
         fs.writeFile('./db/db.json', JSON.stringify(filterednotes),(err,data)=>{
             if(err)console.error(err);
             console.log(`success`);
+            res.redirect('/notes');
         })
         
     })
