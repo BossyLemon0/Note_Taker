@@ -33,7 +33,10 @@ After forking, cloning, and running npm i in the terminal, type the command npm 
 
 ## Contribution Guidelines
 
-Faizila helped me with this project
+Faizila, Jessica, Jason, and my TA, Veronica, helped me with this project. My classmates's githubs will be listed below:
+[Faizila's GitHub](https://github.com/Faizila)
+[Jessica's GitHub](https://github.com/jessicamcg)
+[Jason's GitHub](https://github.com/jasonluxie)
 
 
 ## Tests
