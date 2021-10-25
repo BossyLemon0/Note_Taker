@@ -29,7 +29,7 @@ nmp i
 
 After forking, cloning, and running npm i in the terminal, type the command npm start. Then click the link and go to the note taker. Once you've entered into the main portion of the note taker, write some notes, click the save icon to save them and press the trash icon to delete them.
 
-[!picture of website](./public/assets/pictures/note_taker.jpeg)
+![picture of website](./public/assets/pictures/note_taker.jpeg)
 <br>
 [Application in action](undefined)
 
