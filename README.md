@@ -31,7 +31,7 @@ After forking, cloning, and running npm i in the terminal, type the command npm 
 
 ![picture of website](./public/assets/pictures/note_taker.jpeg)
 <br>
-[Application in action](undefined)
+[Application in action](https://watch.screencastify.com/v/LBPMlVQIvM8tOTbpcJV6)
 <br>
 [Deployed application](https://stormy-basin-51525.herokuapp.com/)
 
