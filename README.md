@@ -21,7 +21,7 @@ This project takes user notes, stores them, and appends them onto the page. It c
 In order to install this application you are going to need to install express 
 
 ```
-nmp i
+npm i
 ```
 
 
